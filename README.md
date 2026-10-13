@@ -17,6 +17,7 @@ Saya merupakan mahasiswa Teknik Informatika di Universitas Negeri Surabaya yang 
 
 ### 1. DesaDigital
 Portal layanan desa yang dikembangkan untuk mendukung pengajuan surat dan pengaduan masyarakat.
+Kontribusi :full stack
 
 [Repository DesaDigital](https://github.com/24051204011-code/DesaDigital)
 
